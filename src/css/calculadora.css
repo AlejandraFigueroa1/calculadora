@@ -1,0 +1,32 @@
+.calculator{
+    background-color:dodgerblue;
+    height: 450px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px 5px #8C8C8C;
+}
+
+
+.calculator td button{
+    background-color: #FFF;
+    height: 60px;
+    width: 60px;
+    display: block;
+    font-size: 25px;
+}
+
+#resultado{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width: 250px;
+    height: 100px;
+    background-color: #FFF;
+    min-height: 100px;
+    line-height: 100px;
+    border-radius: 15px;
+}
